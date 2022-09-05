@@ -21,3 +21,7 @@ try https://images.unsplash.com/photo-1590316536591-92ba019a7b50?ixlib=rb-1.2.1&
 as example url and this image will be filters.
 
 #Thanks to the UDACITY team for the amazing content.
+
+Screenshoot of our elastic beanstalk env
+
+![Screenshot](eb-env.png)
