@@ -6,9 +6,12 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 #setup:
 Clone the repo with git clone https://github.com/Abdoulaye-Thespy/AWS-Image-filter.git
-*cd into the repo. 
-*run npm i to install the dependancies
-*npm run dev to run the server locally. 
+
+cd into the repo. 
+
+run npm i to install the dependancies
+
+npm run dev to run the server locally. 
 
 #Deployed version
 
