@@ -46,8 +46,6 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
             console.log("error");
         } else {
             deleteLocalFiles(files);
-            return res.status(200)
-            .send(`File sent successfully`);
         }
     });
  });
