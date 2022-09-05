@@ -4,6 +4,8 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 #Udagram is built using the starter code provided by Udacity for the nanodegree course.
 
+github repo link: https://github.com/Abdoulaye-Thespy/AWS-Image-filter
+
 #setup:
 Clone the repo with git clone https://github.com/Abdoulaye-Thespy/AWS-Image-filter.git
 
